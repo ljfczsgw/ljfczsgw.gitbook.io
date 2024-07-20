@@ -1,2 +1,2 @@
 alert();
-window.location.href='https://www.4399.com';
+window.open='https://www.4399.com';
