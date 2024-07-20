@@ -1,2 +1,2 @@
 alert();
-window.loacaation.href='www.4399.com';
+window.loacation.href='www.4399.com';
